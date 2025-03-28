@@ -37,7 +37,7 @@ from google.colab import files
 ## Hasil Visualisasi
 Plot di bawah ini menunjukkan hasil clustering dengan K-Means dan DBSCAN:
 
-![Clustering Visualization](https://via.placeholder.com/600x300)
+![Clustering Visualization](https://github.com/japri099/housing-market-kmeans/blob/main/Clustering%20Visualization.png)
 
 ## Download Hasil
 Dataset yang telah diklasterisasi dapat diunduh setelah pemrosesan selesai.
